@@ -1,0 +1,10 @@
+FROM codellama
+
+PARAMETER temperature 1
+
+SYSTEM MESSAGE """
+
+
+
+
+"""
